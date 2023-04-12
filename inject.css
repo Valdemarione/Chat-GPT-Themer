@@ -1,0 +1,49 @@
+/* .bg-gray-900{
+    background-color: black !important;
+} */
+.from-gray-800 {
+    --tw-gradient-from: rebeccapurple !important;
+    --tw-gradient-to: rgba(115, 31, 184, 0) !important;
+}
+.bg-gray-800 {
+    background-color: rgb(69, 19, 69) !important;
+}
+.dark {
+    background-color: rebeccapurple !important;
+}
+.from-gray-900 {
+    --tw-gradient-from: rebeccapurple !important;
+    --tw-gradient-to: rgba(115, 31, 184, 0) !important;
+}
+.hover\:bg-\[\#2A2B32\]:hover {
+    background-color: rgb(79, 14, 80) !important;
+}
+.dark .dark\:bg-gray-800 {
+    background-color: rgb(69, 19, 69) !important;
+}
+.dark .dark\:md\:bg-vert-dark-gradient {
+    background-image: linear-gradient(180deg,rgba(1, 14, 74, 0),#5f1279 58.85%) !important;
+}
+.dark .dark\:bg-gray-700 {
+    background-color: rgb(125, 61, 189) !important;
+}
+.sm\:mt-\[20vh\] {
+    margin-top: 1vh !important;
+}
+.overflow-hidden.w-full.h-full.relative.flex {
+    flex-direction: row-reverse !important;
+}
+
+.dark .dark\:bg-\[\#444654\] {
+    background-color: rgba(127, 25, 164, 0.832) !important;
+}
+.dark .btn-neutral {
+    background-color: rgba(127, 25, 164, 0.832) !important;
+    border-color: white !important;
+    color: white!important;
+}
+.btn-dark {
+    background-color: rgba(127, 25, 164, 0.832) !important;
+    border-color: white !important;
+    color: white!important;
+}
